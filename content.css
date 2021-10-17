@@ -149,3 +149,18 @@ opacity: 0.7;
 .error-bg{
     background-color: #faf0f0;
 }
+.imgwidth{
+    width: 500px;
+}
+.birthday-heading{
+    font-size: 79px;
+    color: gold;
+}
+.birthday-para{
+    font-size: 29px;
+    font-weight: 900;
+}
+.chiragbg{
+    background-color: red;
+    
+}
